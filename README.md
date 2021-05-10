@@ -3,10 +3,12 @@ Practice machine learning pipeline using imbalanced dataset. For a small dataset
 
 Three metrics were used here: AUC score (how well does this detect true positives), Confusion matrix (detailed rundown), and  F1 score (mix of accuracy and precision). Choosing the right metric is important especially with imbalanced datasets. 
 
-![Flowchart for binary classification metric](https://machinelearningmastery.com/wp-content/uploads/2019/12/How-to-Choose-a-Metric-for-Imbalanced-Classification-latest.png)
-
 Frameworks used: pandas, sklearn, imblearn
 
 Link to dataset used: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
 
 [If I have time, I'll polish this page up with a proper report]
+
+Flowchart for binary classification metric
+![Flowchart for binary classification metric](https://machinelearningmastery.com/wp-content/uploads/2019/12/How-to-Choose-a-Metric-for-Imbalanced-Classification-latest.png)
+Source: https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/
